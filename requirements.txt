@@ -1,0 +1,10 @@
+pytchat
+httpx==0.27.2
+openai==1.57.2
+google-api-python-client
+emoji
+wordcloud
+textblob
+mecab-python3
+Mecab
+japanize-matplotlib
